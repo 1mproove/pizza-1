@@ -24,4 +24,3 @@ class Pizza:
 
     def getName(self):
         return self.name
-    
