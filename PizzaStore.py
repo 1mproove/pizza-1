@@ -12,7 +12,6 @@ class PizzaStore(ABC):
     elif pizza_type == 'veggie':
         pizza = VeggiePizza()
 
-
         pizza.prepare()
         pizza.bake()
         pizza.cut()
