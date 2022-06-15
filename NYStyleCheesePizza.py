@@ -7,4 +7,4 @@ class NYStyleCheesePizza(Pizza):
          self.sauce = 'sous marinadniy'
 
          self.toppings.append('Vkusniy cheese')
-         
+        
